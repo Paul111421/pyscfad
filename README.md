@@ -2,7 +2,7 @@
   <img src="https://fishjojo.github.io/pyscfad/_static/pyscfad_logo.svg" height="80px"/>
 </div>
 
-PySCF with Auto-differentiation
+Personal PySCF with Auto-differentiation fork of Paul111421
 ===============================
 
 [![PyPI version](https://img.shields.io/pypi/v/pyscfad.svg)](https://pypi.org/project/pyscfad/)
